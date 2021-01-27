@@ -81,6 +81,8 @@ We have defined a concrete workflow for these changes:
 5. **Development**: The next step is the development. Remember to add unit, integration and e2d tests as well as the new code. We have the API well documented too in [taiga-doc](http://taigaio.github.io/taiga-doc/dist/api.html).
 6. **Pull request**: The last step it to create the Pull Reuqest. Remember to add a good description and screenshots are welcome too. Once the pull request is done, someone else from the team will review the code to ensure that it fits with the good practices and styles. If it does, the PR will be merged and will be on the next Taiga release.
 
+> Don't forget to add your name to `AUTHORS.rst` file!
+
 If you think you are not able to do one or more of the parts of the process, your contribution is still welcome, but we cannot ensure that it will make it soon into the Taiga core anytime soon. It will depend on our priority backlog.
 
 Thanks a lot! It is really great that we could make Taiga better with the help of the community.
